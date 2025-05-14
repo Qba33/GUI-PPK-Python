@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --add-data "generali2.jpg;." --icon="C:\Users\WYKURZJ\Documents\python files\2. GUI with tkinter\gui ppk\ppk_GwU_icon.ico" working_rev1.py
